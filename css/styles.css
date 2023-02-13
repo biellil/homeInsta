@@ -1,4 +1,4 @@
-/* GENERAL */
+
 * {
   margin: 0;
   padding: 0;
@@ -7,7 +7,7 @@
   background-color: #FAFAFA;
 }
 
-/* CONTAINERS */
+
 #main-container {
   display: flex;
   flex-direction: row;
@@ -32,7 +32,7 @@
   text-align: center;
 }
 
-/* LOGIN FORM */
+
 #form-box {
   background-color: #FFF;
   border: 1px solid #DBDBDB;
@@ -74,7 +74,6 @@
   font-weight: bold;
 }
 
-/* SEPARADOR */
 .separator {
   position: relative;
 }
@@ -96,7 +95,7 @@
   font-size: 14px;
 }
 
-/* FACEBOOK LOGIN */
+
 
 #facebook-login {
   margin-bottom: 25px;
@@ -123,7 +122,6 @@
 }
 
 
-/* ESQUECEU A SENHA */
 
 #forgot-pass {
   margin-bottom: 20px;
@@ -135,7 +133,7 @@
   color: #373799;
 }
 
-/* CHAMADA CADASTRO */
+
 
 #register-container {
   background-color: #FFF;
@@ -156,7 +154,7 @@
   text-decoration: none;
 }
 
-/* OBTER O APP */
+
 
 #get-app-container {
   text-align: center;
@@ -177,7 +175,7 @@
   height: 40px;
 }
 
-/* RODAPÉ */
+
 
 footer {
   text-align: left;
